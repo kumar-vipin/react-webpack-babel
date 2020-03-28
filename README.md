@@ -1,2 +1,2 @@
 # react-webpack-babel
-Setup react using webpack and babel
+Setup React using webpack and babel
